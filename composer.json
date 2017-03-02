@@ -1,0 +1,14 @@
+{
+    "name": "nucleus-php/test",
+    "description": "Test",
+    "type": "library",
+    "license": "MIT",
+    "version": "0.1.0",
+    "authors": [
+        {
+            "name": "Jochem Klaver",
+            "email": "nucleus-php@7ochem.nl"
+        }
+    ],
+    "require": {}
+}
